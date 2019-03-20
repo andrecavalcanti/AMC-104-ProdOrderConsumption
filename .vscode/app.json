@@ -1,0 +1,28 @@
+{
+  "id": "a14b476f-7a7f-44f1-98dc-4a9271d76d24",
+  "name": "DXC Prod. Order Consumption",
+  "publisher": "DXC",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [   
+  ],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50000,
+    "to": 50149
+  },
+
+"showMyCode": true,
+"breakonerror" : true,
+"runtime": "1.0"
+}
